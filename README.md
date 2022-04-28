@@ -22,6 +22,6 @@ Conclusion's:
   •	Overall sentiment count of merged dataset in which Positive sentiment count is 64%, Negative 22% and Neutral 13%.
   •	Price, Rating, Size has no or very less correlation with Sentiment Polarity.
   •	It's good to develop a Free type app and having a content rating for Everyone.
-  •	Most of the apps are fall in 0 to 50 MB Size group. It’s good to develop of app this size bracket.
+  •	Most of the apps are fall in 0 to 50 MB Size group. It’s good to develop of app this size bracket.**
 
 
