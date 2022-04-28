@@ -27,7 +27,7 @@ Conclusion's:
   
   •	**7749 Apps has rating more than 4.0 including both type of app.**
   
-  •	**Overall sentiment count of merged dataset in which Positive sentiment count is 64%, Negative 22% and Neutral 13%.
+  •	**Overall sentiment count of merged dataset in which Positive sentiment count is 64%, Negative 22% and Neutral 13%.**
   
   •	**Price, Rating, Size has no or very less correlation with Sentiment Polarity.**
   
